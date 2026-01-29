@@ -1,2 +1,3 @@
 # Delta-demo
-This is about git and git hub
+This is about git and git hub.
+And welcome
